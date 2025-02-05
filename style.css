@@ -1,0 +1,29 @@
+*{
+
+}
+
+body{ 
+	background: lightpink;
+	color: white;
+	text-align: center;
+	font-family: Monaco;
+}
+
+
+.important{ 
+	margin-top: 20%;
+	margin-bottom: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: white;
+	color: black;
+	padding: 3%;
+	border-radius: 2%;
+	border-color: black;
+	justify-content: center;
+ }
+
+ 
+
+
+
